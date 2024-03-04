@@ -1,4 +1,4 @@
-# Latex Paper For Translating Temporal Logics Into Alternating Automatons
+# Latex Template for Master's Thesis
 
 
 ## Building
